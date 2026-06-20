@@ -258,7 +258,7 @@ def get_connection():
         host='gateway01.ap-southeast-1.prod.aws.tidbcloud.com',
         port=4000,
         user='23fjQ2u7KMmNNeg.root',
-        password='N8VaXli1cnb23e42',
+        password='yd7lwxH1ZDm9Eatm',
         database='student_management',
         charset='utf8mb4',
         autocommit=True,
